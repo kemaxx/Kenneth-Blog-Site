@@ -21,6 +21,7 @@ email-validator==2.0.0.post2
 exceptiongroup==1.1.1
 Flask==2.3.2
 Flask-Bootstrap==3.3.7.1
+Flask-CKEditor==0.4.6
 Flask-SQLAlchemy==3.0.3
 Flask-WTF==0.14.3
 fonttools==4.39.4
